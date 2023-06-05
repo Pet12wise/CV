@@ -1,0 +1,96 @@
+body{
+  background-color:#21252b;
+  position: relative;
+
+}
+h3{
+  color: #66bfbf
+}
+h1{
+  color: teal;
+
+}
+.move{
+  text-align:center;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #66bfbf;
+  border-width: 5px;
+  width: 15%
+}
+body{
+  color:#9da5b4;
+}
+#heading{
+  color: white;
+}
+.fortune{
+  border-radius: 100%
+}
+#submitbutton:hover{
+  background-color: teal;
+  height: 30px;
+  width: 100px;
+  border-radius: 20%
+}
+.inner-left {
+  background-color:#66bfbf;
+  height: 250px;
+  width: 200px;
+  position: absolute;
+  top: 60px;
+  right: 120px;
+  text-align: center;
+
+
+}
+.master-class{
+  margin: 0;
+  
+  position: absolute;
+  border: solid;
+  color: #66bfbf;
+  height: 200px;
+  width: 80%;
+  right:3%;
+  top: 4%;
+  border-color: #66bfbf;
+  border-left-width: 10px;
+border-bottom-width: 10px;
+border-right-width: 0;
+border-top-width: 0;
+border-bottom-style: groove;
+border-left-style: groove;
+}
+
+.textbox{
+  color: black;
+  font-size: 40px;
+}
+#box-hov:hover{
+  background-color: silver;
+  height: 260px;
+  width: 220;
+  border-radius: 40px;
+  font-size: 20px;
+  font-style: italic;
+}
+.left-style{
+border:solid;
+color: #9da5b4;
+position:absolute;
+height: 500px;
+width: 400px;
+background-color: #21252b;
+right: 60px;
+top: 250px;
+border-color: #66bfbf;
+border-radius: 20px;
+padding-top: 10px;
+padding-right: 30px;
+border-top-width: 15px;
+border-left-width: 20px;
+border-bottom-width: 0px;
+border-style: groove;}
